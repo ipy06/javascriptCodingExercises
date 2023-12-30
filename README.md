@@ -1,5 +1,5 @@
 ## Welcome to the Javascript coding exercises!
-*This repository contains various javascript challenges increasing in difficulty as i progress in my learning journey*
+*This repository contains various javascript challenges that increase in difficulty as I progress in my learning journey*
 
 | FileName | Difficulty | Source
 | ----------- | ----- | ----------- |
