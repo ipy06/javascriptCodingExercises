@@ -10,4 +10,5 @@
 | countSheep.js | easy | [codewars](https://www.codewars.com/kata/54edbc7200b811e956000556/train/javascript) |
 | vowelCount.js | easy | [codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript) |
 | isDivisible.js | easy | [codewars](https://www.codewars.com/kata/5545f109004975ea66000086/train/javascript) |
+| negative.js | easy | [codewars](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript) |
 
