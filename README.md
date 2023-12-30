@@ -1,7 +1,7 @@
 ## Welcome to the Javascript coding exercises!
 *This repository contains various javascript challenges increasing in difficulty as i progress in my learning journey*
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
+| FileName | Difficulty | Source
+| ----------- | -------- | ----------- |
+| Header | easy | [codewars](https://www.codewars.com/kata/50654ddff44f800200000004/train/javascript?collection=lesson-5-practice-challenges-number-fullstackroadmap) |
 
