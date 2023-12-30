@@ -1,11 +1,10 @@
 //This function counts the number of vowels in a string
 
-
 function getCount(str) {
   let strList = str.split('');
   let vowelCounts = 0;
   for (let i = 0; i < strList.length; i++){
-    if (strList[i] === ('a' || 'e' || 'i' || 'o' || 'u')){
+    if ((strList[i] ==='a') || (strList[i] ==='e') || (strList[i] ==='i') || (strList[i] ==='o') || (strList[i] ==='u')){
       vowelCounts++
     }
   }
