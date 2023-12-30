@@ -11,4 +11,5 @@
 | vowelCount.js | easy | [codewars](https://www.codewars.com/kata/54ff3102c1bad923760001f3/train/javascript) |
 | isDivisible.js | easy | [codewars](https://www.codewars.com/kata/5545f109004975ea66000086/train/javascript) |
 | negative.js | easy | [codewars](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript) |
+| smallest.js | easy | [codewars](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript) |
 
