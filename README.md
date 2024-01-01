@@ -13,4 +13,4 @@
 | negative.js | easy | [codewars](https://www.codewars.com/kata/55685cd7ad70877c23000102/train/javascript) |
 | smallest.js | easy | [codewars](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript) |
 | summation.js | easy | [codewars](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript) |
-
+| arrayMean.js | easy | [codewars](https://www.codewars.com/kata/563e320cee5dddcf77000158/train/javascript) |
