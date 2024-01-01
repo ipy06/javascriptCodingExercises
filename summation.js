@@ -21,3 +21,14 @@ var summation = function (num) {
 
 
 let summation = n => n * (n + 1) / 2;
+
+
+//using recursion
+
+
+
+var summation = function (num) {
+  if (num === 0)
+    return 0;
+  return num + summation(num - 1)
+}
