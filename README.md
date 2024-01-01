@@ -14,3 +14,4 @@
 | smallest.js | easy | [codewars](https://www.codewars.com/kata/55a2d7ebe362935a210000b2/train/javascript) |
 | summation.js | easy | [codewars](https://www.codewars.com/kata/55d24f55d7dd296eb9000030/train/javascript) |
 | arrayMean.js | easy | [codewars](https://www.codewars.com/kata/563e320cee5dddcf77000158/train/javascript) |
+| rocPapSci.js | easy | [codewars](https://www.codewars.com/kata/5672a98bdbdd995fad00000f/train/javascript) |
